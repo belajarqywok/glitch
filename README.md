@@ -1,5 +1,5 @@
 # glitch
 mini project
 ```
-python glitch.py blabla.jpg 50 asset blabla.mp4
+python glitch.py blabla.jpg 100 asset blabla.gif
 ```
